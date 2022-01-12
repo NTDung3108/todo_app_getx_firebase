@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/todo_app_getx_firebase/BuildConfig.java
+ com.example.todo_app_getx_firebase.BuildConfig
+com/example/todo_app_getx_firebase/MainActivity.java
+ com.example.todo_app_getx_firebase.MainActivity
